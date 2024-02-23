@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// Git или не Git - вот в чём вопрос!
 func Add(a, b int) int {
 	return a + b
 }
